@@ -1,6 +1,8 @@
 #!/bin/sh
 
-folder=~/.config/nvim
+dir=$(dirname $0)
+cd $dir
+
 
 rm -rf ./nvim
 
