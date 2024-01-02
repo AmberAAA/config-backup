@@ -1,2 +1,2 @@
-print("Hello World!")
-require("amber")
+vim.wo.relativenumber = true
+
